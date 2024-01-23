@@ -55,6 +55,6 @@ function EmbedReactBuild() {
 
 window.onload = (event) => {
     const embed = new EmbedReactBuild()
-    embed.setURL("https://ad71fb09.viteproject.pages.dev")
+    embed.setURL("https://viteproject.pages.dev/")
     embed.run()
 };
